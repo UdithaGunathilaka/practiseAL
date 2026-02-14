@@ -1,4 +1,4 @@
-# Section A – Basics (Short questions)
+# Section A – Basics
 
 # Write a Python program to input a number and check whether it is even or odd.
 num=int(input("Enter a number: "))
