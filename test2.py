@@ -9,7 +9,7 @@ for i in range(iterCount):
 print(sum)
 
 # Input a number and reverse it
-# Example: 1234 → 4321
+# Example: 12345 → 54321
 intStr=input("Enter a number: ")
 revStr=""
 for i in range(len(intStr)-1,-1.-1):
